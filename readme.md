@@ -30,4 +30,5 @@ Logo abaixo seguem comandos utilizados para chegar até aqui:
 ###Quinta parte - GitHub
 1. Criado o Repositório mod01-git no GitHub
 2. Inserindo o caminho do repositório remoto utilizando *git remote add origin https://github.com/pcfordelone/mod01-git.git*
-3. Dando o primeiro push nos arquivos utilizando git push origin master;
+3. Dando o primeiro push nos arquivos utilizando *git push origin master*;
+4. Testei também os comandos *git clone* *git pull*;
