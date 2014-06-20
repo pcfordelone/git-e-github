@@ -7,10 +7,10 @@ Este é um repositório de testes, utilizado para aprendizado do Git e GitHub, n
 Logo abaixo seguem comandos utilizados para chegar até aqui:
 
 ###Primeira parte - Primeiros Passos
-1.Através do comando *git init*, iniciei um novo repositório no diretório atual
-2.Criado os arquivos *arquivo01.php* e *readme.md* utilizando o comando *vim* do terminal
-3.Logo após, utilizando o comando *git add .*, passei ambos os arquivos de untracked para read to commit
-4.Comitei estas inclusões utilizando o comando *git commit -a* que me permitiu colocar a mensagem do commit logo após de maneira mais tranquila
+1. Através do comando *git init*, iniciei um novo repositório no diretório atual
+2. Criado os arquivos *arquivo01.php* e *readme.md* utilizando o comando *vim* do terminal
+3. Logo após, utilizando o comando *git add .*, passei ambos os arquivos de untracked para read to commit
+4. Comitei estas inclusões utilizando o comando *git commit -a* que me permitiu colocar a mensagem do commit logo após de maneira mais tranquila
 
 ###Segunda parte - Commitando e Readme.md
 1. Realizei alterações no arquivo readme.md e chequei pelo comando *git status* que o mesmo está alterado
